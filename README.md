@@ -1,18 +1,24 @@
 # Formula Student Dashboard
+<img width="732" height="548" alt="image" src="https://github.com/user-attachments/assets/e1f4c981-49a5-4d46-87f8-0feac9bb41a6" />
+
+
 
 Custom dashboard designed for a Formula Student vehicle, built around the Raspberry Pi Compute Module 4/5.
 
 ## Overview
+<img width="552" height="526" alt="image" src="https://github.com/user-attachments/assets/ba37f714-94b5-4ef9-b0de-7809bb888b6c" />
 
-Custom CM5 carrier PCB and a complete mechanical enclosure for the vehicle dashboard. The electronics integrate high-speed connectivity with dedicated power-management circuitry to support controlled system shutdown during loss of vehicle power.
+Custom CM5 carrier PCB and a complete mechanical enclosure for the vehicle dashboard with an emphasis on weight, reliability, and cost.
 
-### Electrical Engineering
+### PCB
+
+<img width="928" height="438" alt="image" src="https://github.com/user-attachments/assets/89f0268a-b481-40f5-b4d3-fea6087976fa" />
 - Designed the custom Raspberry Pi CM5 carrier PCB from scratch in Altium Designer.
 - Integrated USB, Ethernet, and HDMI connectivity.
 - Designed power-down circuitry incorporating hold-up capacitors to provide stored energy during power loss.
 - Implemented a hardware trigger interface to the microcontroller for power-down event handling.
 
-## Key Engineering Features
+## Features
 
 - Custom CM5 carrier-board design
 - USB, Ethernet, and HDMI interfaces
@@ -24,7 +30,6 @@ Custom CM5 carrier PCB and a complete mechanical enclosure for the vehicle dashb
 
 - PCB design: Altium Designer
 - Mechanical CAD: SolidWorks
-- Computing platform: Raspberry Pi Compute Module 5
 
 ## Status
 
