@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dashboard REV AA.PcbDoc   11/14/2025  2:47:15 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : Working Board Dashboard REVAA-RoundHoles.TXT
+ASCII SlotHoles File : Working Board Dashboard REVAA-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             196       PTH        33.54inch (851.93mm)
+T2      8mil (0.203mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Slot              4         PTH        2.29inch (58.29mm)
+T4      39mil (1.001mm)                                           Round             4         PTH        0.28inch (7.00mm)
+T5      106mil (2.7mm)                                            Round             4         PTH        4.49inch (114.00mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        12.26inch (311.45mm)
+T7      94mil (2.38mm)                                            Round             2         NPTH       0.52inch (13.14mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              215
+
+Total Processing Time (hh:mm:ss) : 00:00:00
